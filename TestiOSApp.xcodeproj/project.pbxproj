@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					F651EC4D1F4AC07700BCCAAB = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = PP6V85KU4E;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = PP6V85KU4E;
 				INFOPLIST_FILE = TestiOSApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.slbd.TestiOSApp;
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = PP6V85KU4E;
 				INFOPLIST_FILE = TestiOSApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.slbd.TestiOSApp;
